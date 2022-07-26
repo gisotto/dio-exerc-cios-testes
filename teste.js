@@ -1,5 +1,5 @@
 /*Para ver o OUTPUT do console no terminal
-é preciso usar o comando (node) e colocar o nome do arquivo que esta o
+é preciso usar o comando (node) e colocar o nome do arquivo que se encontra o
      codigo) no terminal */ 
 
  function returnEvenValues(array) {
